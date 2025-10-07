@@ -1,4 +1,4 @@
-<img width="1919" height="1199" alt="Screenshot 2025-10-07 143111" src="https://github.com/user-attachments/assets/2c801c51-e27c-4549-a013-74621e2f1c6c" /># JKFLIPFLOP-USING-IF-ELSE
+# JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
